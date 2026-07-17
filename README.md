@@ -91,7 +91,7 @@ The **Pizza Sales Dashboard** is an interactive Business Intelligence project bu
 * Publish the report to Power BI Service for online access.
 
 📸 Dashboard Screenshots
-https://github.com/krushnamalhari491-alt/Pizza_sales-dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png
+(https://github.com/krushnamalhari491-alt/Pizza_sales-dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
 
 ## 👨‍💻 Author
 
